@@ -1,49 +1,75 @@
 ﻿# UltraKeyboard
 Extend your keyboard beyond all limits.
 
-### How it works:
+## How it works:
 
 It uses a new keyboard layout named "IT Unicode EPTO 1 (Full Unicode Keyboard)".
 This layout contains a lot of unicode characters. It is not enough for us.
 
 I want write "Ｌａｒｇｅ" and ⓇⓄⓊⓃⒹ and some others ☺ ☻ ♣ █ 🙂 💩
 
-To extends the keyboard layout and function it uses Autohotkey.
+To extends the keyboard layout and functions it uses Autohotkey.
 The Autohotkey's language is very complex to do a new keyboard layout with deadkeys, translator etcà
 
 This php script do all works for you.
 
-### How to use:
+## More keyboard modes and functions:
+
+### Mapped layout by category:
+
+This mode uses a deadkey and a character to select the layout.
+Example: Write the character "≤".
+Press AltGr + The Dot into numpad
+Then to select (opening category) press "(".
+Then select the first characher into the map, press "1".
+
+### Named keys:
+
+Press AltGr + CapsLock, digit :), then press enter.
+It write: 🙂
+
+### No more accidental CapsLock:
+
+Use Shift + CapsLock instead.
+
+### Write Ｌａｒｇｅ (translator) :
+
+Press AltGr + Shift + CapsLock and write in large mode.
+
+(End width enter or space).
+
+## How to use:
 
 First install the "IT Unicode EPTO 1 (Full Unicode Keyboard)" from EPTOKeyboard directory, then put in autorun the file KeyboardExtender.exe from bin direcotry.
 
-Press AltGr + (Media ?) to open the help window.
+Press AltGr + (Media ♫) to open the help window.
 
-### How to customize:
+## How to customize:
 
 First install Autohotkey.
 
 The are some folders into HotKeysBuilder directory:
 
-## To change DeadKeys:
+### To change DeadKeys:
 
-DeadKeys Defines the deadkeys from configuration text files.
+The files into the DeadKeys direcotry defines the deadkeys by configuration text files.
+
 Put a unicode chacarcter into the space before comments ( start from ; ) .
 You can also use a unicode escape like: <0x1234>
    
-## To change Mapped layout DeadKeys: 
+### To change Mapped layout DeadKeys: 
 
 Modify the file ExtLayout/MAP-LAY.txt
 Leave blank the first two lines.
 For each line put the first character as the DeadKey, next characters are mapped automatically after the mapped DeadKey.
 
-## To change the named keys:
+### To change the named keys:
 
 Edit the file ExtConfig/NamedKeys.txt
 
 For each line the word is the name of the character, after space put the character or a string.
 
-## To change or add a Translator:
+### To change or add a Translator:
 
 Edit the file ExtConfig/Translators.txt
 
