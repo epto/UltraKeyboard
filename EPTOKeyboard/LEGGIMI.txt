@@ -1,0 +1,102 @@
+﻿ATTENZIONE, questo è un file di testo in UTF-8, se la codifica è giusta potrai
+leggere correttamente le due righe qui sotto, una senza accenti l'altra con gli
+accenti, il tutto dentro ad un bordo.
+
+████████████
+█AAEEIIOOUU█
+█ÀÁÈÉÌÍÒÓÙÚ█
+████████████
+
+Questo è un layout di tastiera più che completo:
+Permette di usare al meglio tutti i caratteri utili con anche la possibilità
+FINALMENTE di usare le lettere accentate maiuscole.
+
+Aggiunge per esempio i caratteri:
+	~ = [AltGr] + [\]
+	` = [AltGr] + [']
+	
+Per ottenere le lettere accentate maiuscole è sufficiente scrivere con 
+[ShiftLock] attivato, le lettere accentate saranno maiuscole, con [Shift]
+le lettere accentate avranno l'accento diverso. 
+	À = [ShiftLock] [à]
+	Á = [ShiftLock] [Shift] + [à]
+	E così via per le altre
+
+Circonflessi:
+	« = [AltGr] + [<]
+	» = [AltGr] + [>]
+
+Virgolette:
+	“ = [AltGr] + [2]
+	” = [AltGr] + [Shift] + [2]
+	` = [AltGr] + [']
+	´ = [AltGr] + [Shift] + [']
+
+Per Mille:
+	‰ = [AltGr] + [Shift] + [5]
+
+Questi simboli funzionano come sempre:
+	€[]{}@#§°çòàèéì^\|
+
+	Ah dimenticavo c'è anche questo:
+	Ç = [AltGr] + [Shift] + [ò]
+
+È disponibile anche un set di caratteri grafici corrispondenti ai codici
+sotto al 32 (riportati in unicode) raggiungibili con la combinanzione
+	[Ctrl] + [Shift] + <tasto>
+
+Sono stati introdotti anche i caratteri grafici.
+
+A seguito il layout 
+	normale
+	shift
+	altgr
+	altgr + shift
+	ctrl + shift
+
+\ 1 2 3 4 5 6 7 8 9 0 ' ì
+| ! " £ $ % & / ( ) = ? ^
+~ ‼ “ „ ∞ € ¼ ± ≤ ≥ ≠ ` ☺
+≈ ¡ ” ‚ ¢ ‰ ½ ¾ ¶ ¿ ≡ ´ ☻
+↔ α β γ δ ε σ ω ε Φ Ξ ß ▼
+
+q w e r t y u i o p è +
+Q W E R T Y U I O P é *
+◄ ► € ┌ ┬ ┐ ▌ ▀ ▄ █ [ ]
+▲ ▼ ∑ ╔ ╦ ╗ ▐ ░ ▒ ▓ { }
+◄ ↨ ♣ ↕ ¶ ↓ § ○ ☼ ► ∟ ▲
+
+a s d f g h j k l ò à ù
+A S D F G H J K L ç ° §
+¤ ∏ ∆ ├ ┼ ┤ ─ │ ■ @ # ¦
+¹ ² ³ ╠ ╬ ╣ ═ ║ □ Ç ⁿ ⌂
+☺ ‼ ♦ ♠ • ◘ ◙ ♂ ♀ ¨ ◊ Ø
+
+< z x c v b n m , . -
+> Z X C V B N M ; : _
+« ▪ © ● └ ┴ ┘ µ • · ▬
+» ▫ ® ○ ╚ ╩ ╝ ÷ … ◦ ¯
+√ ← ↑ ♥ ▬ ☻ ♫ ♪ Ω × Æ
+
+
+Installa eseguendo setup.exe
+Poi vai su:
+
+	Start  
+	Impostazioni 
+	Pannello di controllo 
+	Impostazioni regionali/Internazionali 
+	Lingue 
+	Dettagli ... 
+	Impostazioni (tab)
+
+Scegli la tastiera "IT Unicode EPTO 1 (Full Unicode Keyboard)"
+Quindi Selezionala come predefinita.
+Quindi vai su
+	Ok
+	Ok
+E riavvia il sistema.
+Se vuoi la tastiera ultra estesa con le deadkeys,
+apri la cartella Layout-Ver2 e fai partire setup.bat
+
+

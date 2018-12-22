@@ -1,0 +1,51 @@
+﻿; BOM Line
+DK {$DeadKey1} ; DeadKey
+
+K A005C	 	; \
+K A0031	 ᵏ	; 1
+K A0032	 ᵐ	; 2
+K A0033	 ᵑ	; 3
+K A0034	 ᵒ	; 4
+K A0035	 ᵓ	; 5
+K A0036	 ᵗ	; 6
+K A0037	 ᵘ	; 7
+K A0038	 ᵚ	; 8
+K A0039	 ᵜ	; 9
+K A0030	 ᵝ	; 0
+K A0027	 ᵟ	; '
+K A00EC	 ᵞ	; ì
+K A0071	ᴽ 	; q
+K A0077	ᵂ 	; w
+K A0065	ᴱ 	; e
+K A0072	ᴿ 	; r
+K A0074	ᵀ 	; t
+K A0079	 	; y
+K A0075	ᵁ 	; u
+K A0069	ᵢ 	; i
+K A006F	ᴼ 	; o
+K A0070	ᴾ 	; p
+K A00E8	ᴪ 	; è
+K A002B	ᴫ 	; +
+K A0061	ᴬ 	; a
+K A0073	 	; s
+K A0064	ᴰ 	; d
+K A0066	 	; f
+K A0067	ᴳ 	; g
+K A0068	ᴴ 	; h
+K A006A	ᴶ 	; j
+K A006B	ᴷ 	; k
+K A006C	ᴸ 	; l
+K A00F2	 ᵣ	; ò
+K A00E0	 ᵿ	; à
+K A00F9	 ᵤ	; ù
+K A003C	 	; <
+K A007A	 ᵯ	; z
+K A0078	 ᵰ	; x
+K A0063	 ᵲ	; c
+K A0076	ᵥ 	; v
+K A0062	ᴮ 	; b
+K A006E	ᴺ 	; n
+K A006D	ᴹ 	; m
+K A002C	ᵠ 	; ,
+K A002E	ᵡ 	; .
+K A002D	ᴭ 	; -

@@ -1,0 +1,45 @@
+﻿ATTENZIONE, questo è un file di testo in UTF-8, se la codifica è giusta potrai
+leggere correttamente le due righe qui sotto, una senza accenti l'altra con gli
+accenti, il tutto dentro ad un bordo.
+
+████████████
+█AAEEIIOOUU█
+█ÀÁÈÉÌÍÒÓÙÚ█
+████████████
+
+A seguito il layout 
+	normale
+	shift
+	altgr
+	altgr + shift
+	ctrl + shift
+
+\ 1 2 3 4 5 6 7 8 9 0 ' ì
+| ! " £ $ % & / ( ) = ? ^
+~ ‼ “ „ ∞ € ¼ ± ≤ ≥ ≠ ` ☺
+≈ ¡ ” ‚ ¢ ‰ ½ ¾ ¶ ¿ ≡ ´ ☻
+↔ α β γ δ ε σ ω ε Φ Ξ ß ▼
+
+q w e r t y u i o p è +
+Q W E R T Y U I O P é *
+◄ ► € ┌ ┬ ┐ ▌ ▀ ▄ █ [ ]
+▲ ▼ ∑ ╔ ╦ ╗ ▐ ░ ▒ ▓ { }
+◄ ↨ ♣ ↕ ¶ ↓ § ○ ☼ ► ∟ ▲
+
+a s d f g h j k l ò à ù
+A S D F G H J K L ç ° §
+¤ ∏ ∆ ├ ┼ ┤ ─ │ ■ @ # ¦
+¹ ² ³ ╠ ╬ ╣ ═ ║ □ Ç ⁿ ⌂
+☺ ‼ ♦ ♠ • ◘ ◙ ♂ ♀ ¨ ◊ Ø
+
+< z x c v b n m , . -
+> Z X C V B N M ; : _
+« ▪ © ● └ ┴ ┘ µ • · ▬
+» ▫ ® ○ ╚ ╩ ╝ ÷ … ◦ ¯
+√ ← ↑ ♥ ▬ ☻ ♫ ♪ Ω × Æ
+
+Vedere le immagini layout nella cartella
+Immagini-Layout.
+
+Se installi le estensioni hai a disposizione anche le
+deadkeys con altri 3 layout.

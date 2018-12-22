@@ -1,0 +1,51 @@
+﻿; BOM Line
+DK {$DeadKey0} ; DeadKey
+
+
+K I203C	<0xE0102> 	; AltGr + 1
+K I201C	<0xE0103> 	; AltGr + 2
+K I201E	 	; AltGr + 3
+K I221E	 	; AltGr + 4
+K I20AC	 	; AltGr + 5
+K I00BC	 	; AltGr + 6
+K I00B1	ᗢ 	; AltGr + 7
+K I2264	ᗧ 	; AltGr + 8
+K I2265	ᗤ 	; AltGr + 9
+K I2260	ᗝ 	; AltGr + 0
+K I0060	 	; AltGr + '
+K I263A	◉ 	; AltGr + ì
+K I25C4	▢ 	; AltGr + q
+K I25BA	▣ 	; AltGr + w
+
+K I250C	▤ 	; AltGr + r
+K I252C	▥ 	; AltGr + t
+K I2510	▦ 	; AltGr + y
+K I258C	▧ 	; AltGr + u
+K I2580	▨ 	; AltGr + i
+K I2584	◌ 	; AltGr + o
+K I2588		; AltGr + p
+K I005B	 	; AltGr + è
+K I005D	╳ 	; AltGr + +
+K I00A4 ◢ 	; AltGr + a
+K I220F	◤ 	; AltGr + s
+K I2206	◣ 	; AltGr + d
+K I251C	◥  	; AltGr + f
+K I253C	◩ 	; AltGr + g
+K I2524	◪ 	; AltGr + h
+K I2500	◨ 	; AltGr + j
+K I2502	◧ 	; AltGr + k
+K I25A0	◫ 	; AltGr + l
+K I0040	◠ 	; AltGr + ò
+K I0023	◡  	; AltGr + à
+K I00A6	▭ 	; AltGr + ù
+K I00AB	 	; AltGr + <
+K I25AA	 ◐	; AltGr + z
+K I00A9	 ◑	; AltGr + x
+K I25CF	 ◒	; AltGr + c
+K I2514	 ◓	; AltGr + v
+K I2534	 ◔	; AltGr + b
+K I2518	 ◕	; AltGr + n
+K I00B5	 ◈	; AltGr + m
+
+K I00B7	 	; AltGr + .
+

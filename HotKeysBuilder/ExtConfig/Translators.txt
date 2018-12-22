@@ -1,0 +1,10 @@
+. {$Translators}
+;ch	From	Start	End
+l	21	FF01	FF5E	Large
+o	61	24B6	24CF	Round
+r	61	24D0	24E9	Round
+
+
+
+
+

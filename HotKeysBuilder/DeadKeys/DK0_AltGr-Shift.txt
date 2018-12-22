@@ -1,0 +1,40 @@
+﻿; BOM Line
+DK {$DeadKey0}; DeadKey
+
+K J2248	 	; AltGr + Shift + \
+K J00A1	 	; AltGr + Shift + 1
+K J201D	 	; AltGr + Shift + 2
+K J201A	 	; AltGr + Shift + 3
+K J00A2	 	; AltGr + Shift + 4
+K J2030	 	; AltGr + Shift + 5
+K J00BD	 	; AltGr + Shift + 6
+K J00BE	 ᗣ	; AltGr + Shift + 7
+K J00B6	 ᗡ	; AltGr + Shift + 8
+K J00BF	 ᗞ	; AltGr + Shift + 9
+K J2261	 ᗜ	; AltGr + Shift + 0
+K J00B4	 	; AltGr + Shift + '
+K J263B	 	; AltGr + Shift + ì
+K J25B2	 	; AltGr + Shift + q
+K J25BC	 	; AltGr + Shift + ì
+K J2211	 ᖴ	; AltGr + Shift + e
+K J2554	 ᖵ	; AltGr + Shift + r
+K J2566	 ᖶ	; AltGr + Shift + t
+K J2557	 ᖷ	; AltGr + Shift + y
+K J2590	 	; AltGr + Shift + u
+K J2591	 	; AltGr + Shift + i
+K J2592	 	; AltGr + Shift + o
+K J2593	 	; AltGr + Shift + p
+K J007B	 	; AltGr + Shift + è
+K J007D	 	; AltGr + Shift + +
+K J00B9	 	; AltGr + Shift + a
+K J00B2	 	; AltGr + Shift + s
+K J00B3	 ᖸ	; AltGr + Shift + d
+K J2560	 ᖹ	; AltGr + Shift + f
+K J256C	 ᖺ	; AltGr + Shift + g
+K J2563	 ᖻ	; AltGr + Shift + h
+K J2550	 	; AltGr + Shift + j
+K J2551	 	; AltGr + Shift + k
+K J25A1	 	; AltGr + Shift + l
+K J00C7	 	; AltGr + Shift + ò
+K J207F	 	; AltGr + Shift + à
+K J2302	 	; AltGr + Shift + ù

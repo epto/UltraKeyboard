@@ -1,0 +1,22 @@
+{$DeadKey0} e {$DeadKey1} sono DeadKey.
+
+Per i tasti con nome:
+Premi {$NamedKeys}, digita il nome e poi invio.
+
+Layout per tipo:
+Premi {$MapLay}, digita il primo carattere per selezionare il layout,
+quindi digita il carattere.
+
+Traslatori:
+Digita {$Translators}, digita il carattere per scegliere il traslatore
+e comincia a scrivere in modalità traslata.
+Un carattere non valido, enter e end stabiliscono l'uscita dalla
+modalità traslatore.
+
+Visualizza layout usando l'indice:
+Digita {$HelpGui} poi invio per vedere l'indice.
+Digita {$HelpGui} poi *, invia per vedere il layout iniziale.
+Digita {$HelpGui} poi il codice presente nel indice ed invio per vedere il singolo layout.
+
+Visualizza l'ultimo layout usato:
+Digita {$LastHelp} (dopo aver usato una DeadKey).

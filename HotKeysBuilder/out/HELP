@@ -1,0 +1,22 @@
+CapsLock e CTRL CapsLock sono DeadKey.
+
+Per i tasti con nome:
+Premi AltGr CapsLock, digita il nome e poi invio.
+
+Layout per tipo:
+Premi AltGr NumpadDot, digita il primo carattere per selezionare il layout,
+quindi digita il carattere.
+
+Traslatori:
+Digita AltGr Shift CapsLock, digita il carattere per scegliere il traslatore
+e comincia a scrivere in modalità traslata.
+Un carattere non valido, enter e end stabiliscono l'uscita dalla
+modalità traslatore.
+
+Visualizza layout usando l'indice:
+Digita CTRL Launch_Media poi invio per vedere l'indice.
+Digita CTRL Launch_Media poi *, invia per vedere il layout iniziale.
+Digita CTRL Launch_Media poi il codice presente nel indice ed invio per vedere il singolo layout.
+
+Visualizza l'ultimo layout usato:
+Digita Shift Launch_Media (dopo aver usato una DeadKey).

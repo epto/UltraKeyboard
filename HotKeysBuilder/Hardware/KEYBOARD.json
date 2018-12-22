@@ -1,0 +1,108 @@
+{
+ "img"	: "KEYBOARD.png",
+ "name" : "K310 EPTO Full Unicode Keyboard V1.1",
+ "lang" : "it",
+ "layoutName" : "it-EPTO-FullUnicode/1.1",
+ "padding" : 2,
+ "button" : {
+ 
+ 	"RShift" : {
+	 "x0" : 582,
+	 "y0" : 110,
+	 "buttonW" : 108,
+	 "buttonH" : 36,
+	 "text" : "Shift",
+	 "size" : 8
+	 } ,
+	 
+	 "LShift" : {
+	 "x0" : 2,
+	 "y0" : 110,
+	 "buttonW" : 52,
+	 "buttonH" : 36,
+	 "text" : "Shift",
+	 "size" : 8
+	 } ,
+ 
+ 	"Alt" : {
+	 "x0" : 94,
+	 "y0" : 146,
+	 "buttonW" : 60,
+	 "buttonH" : 36,
+	 "size" : 8
+	 } ,
+ 	
+ 	"AltGr" : {
+	 "x0" : 526,
+	 "y0" : 146,
+	 "buttonW" : 60,
+	 "buttonH" : 36,
+	 "size" : 8
+	 } ,
+ 	
+ 	"RCTRL" : {
+	 "x0" : 598,
+	 "y0" : 146,
+	 "buttonW" : 92,
+	 "buttonH" : 36,
+	 "text" : "CTRL",
+	 "size" : 8
+	 } ,
+	 
+	 "LCTRL" : {
+	 "x0" : 2,
+	 "y0" : 146,
+	 "buttonW" : 80,
+	 "buttonH" : 36,
+	 "text" : "CTRL",
+	 "size" : 8
+	 } ,
+	 
+	 "Space" : {
+	 "x0" : 174,
+	 "y0" : 146,
+	 "buttonW" : 328,
+	 "buttonH" : 36,
+	 "size" : 10
+	 }
+ 	
+ },
+ "rows"	: [
+	{
+	"x0" : 2,
+	"y0" : 2,
+	"buttonW" : 48,
+	"buttonH" : 36,
+	"buttons" : 13,
+	"map" : "\\1234567890'ì"
+	},
+
+	{
+	"x0" : 62,
+	"y0" : 38,
+	"buttonW" : 48,
+	"buttonH" : 36,
+	"buttons" : 12,
+	"map" : "qwertyuiopè+"
+	},
+
+	{
+	"x0" : 74,
+	"y0" : 74,
+	"buttonW" : 48,
+	"buttonH" : 36,
+	"buttons" : 12,
+	"map" : "asdfghjklòàù"
+	},
+
+	{
+	"x0" : 54,
+	"y0" : 110,
+	"buttonW" : 48,
+	"buttonH" : 36,
+	"buttons" : 11,
+	"map" : "<zxcvbnm,.-"
+	}
+
+    ]
+}

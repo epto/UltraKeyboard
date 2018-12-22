@@ -1,0 +1,19 @@
+Installa eseguendo setup.exe
+Poi vai su:
+
+	Start  
+	Impostazioni 
+	Pannello di controllo 
+	Impostazioni regionali/Internazionali 
+	Lingue 
+	Dettagli ... 
+	Impostazioni (tab)
+
+Scegli la tastiera "IT Unicode EPTO 1 (Full Unicode Keyboard)"
+Quindi Selezionala come predefinita.
+Quindi vai su
+	Ok
+	Ok
+E riavvia il sistema.
+Se vuoi la tastiera ultra estesa con le deadkeys,
+apri la cartella Layout-Ver2 e fai partire setup.bat

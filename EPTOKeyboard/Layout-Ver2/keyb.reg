@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Keyboard Layouts\a0000410]
+"Layout Text"="IT Unicode EPTO 1 (Full Unicode Keyboard)"
+"Layout File"="EPTO-IT1.dll"
+"Layout Id"="00c0"
+"Layout Product Code"="{E3E5F411-B39A-4A71-ABF8-3B01E8DBA24F}"
+"Layout Display Name"="@%SystemRoot%\\system32\\EPTO-IT1.dll,-1000"
+"Custom Language Name"="Italian (Italy)"
+"Custom Language Display Name"="@%SystemRoot%\\system32\\EPTO-IT1.dll,-1100"
+

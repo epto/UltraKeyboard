@@ -1,0 +1,49 @@
+﻿; BOM Line
+DK {$DeadKey1} ; DeadKey
+
+K E007C	 	; Shift + \
+K E0021	ᴖ 	; Shift + 1
+K E0022	ᴗ 	; Shift + 2
+K E00A3	ᵃ 	; Shift + 3
+K E0024	ᵄ 	; Shift + 4
+K E0025	ᵅ 	; Shift + 5
+K E0026	ᵆ 	; Shift + 6
+K E002F	ᵇ 	; Shift + 7
+K E0028	ᵈ 	; Shift + 8
+K E0029	ᵉ 	; Shift + 9
+K E003D	ᵊ 	; Shift + 0
+K E003F	ᵋ 	; Shift + '
+K E005E	ᵎ 	; Shift + ì
+K E0051	ᵍ 	; Shift + q
+K E0057	 ᴡ	; Shift + w
+K E0045	 ᴇ	; Shift + e
+K E0052	 	; Shift + r
+K E0054	 ᴛ	; Shift + t
+K E0059	 	; Shift + y
+K E0055	 ᴜ	; Shift + u
+K E0049	 	; Shift + i
+K E004F	 ᴏ	; Shift + o
+K E0050	 ᴘ	; Shift + p
+K E00E9	 ᶵ	; Shift + è
+K E0041	 ᴀ	; Shift + a
+K E0053	 ᴤ	; Shift + s
+K E0044	 ᴅ	; Shift + d
+K E0046	 	; Shift + f
+K E0047	 	; Shift + g
+K E0048	 	; Shift + h
+K E004A	 ᴊ	; Shift + j
+K E004B	 ᴋ	; Shift + k
+K E004C	 ᴌ	; Shift + l
+K E00B0	 	; Shift + à
+K E00A7	 ᴜ	; Shift + u
+K E003E	 	; Shift + <
+K E005A	 ᴢ	; Shift + z
+K E0058	 	; Shift + x
+K E0043	 ᴄ	; Shift + c
+K E0056	 ᴠ	; Shift + v
+K E0042	 ᴃ	; Shift + b
+K E004E	 	; Shift + n
+K E004D	 ᴍ	; Shift + m
+K E003B	 ᶲ	; Shift + ,
+K E003A	 ᶳ	; Shift + .
+K E005F	 ᶴ	; Shift + -
