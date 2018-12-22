@@ -6,7 +6,7 @@ Extends your keyboard beyond all limits.
 It uses a new keyboard layout named "IT Unicode EPTO 1 (Full Unicode Keyboard)".
 This layout contains a lot of unicode characters. It is not enough for us.
 
-I want write "Ｌａｒｇｅ" and ⓇⓄⓊⓃⒹ and some others ☺ ☻ ♣ █ 🙂 💩
+I want to write "Ｌａｒｇｅ" and ⓇⓄⓊⓃⒹ and some others ☺ ☻ ♣ █ 🙂 💩
 
 To extends the keyboard layout and functions it uses Autohotkey.
 The Autohotkey's language is very complex to do a new keyboard layout with deadkeys, translator etcà
