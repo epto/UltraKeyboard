@@ -707,7 +707,7 @@ HelpIndex["e0"] := "Ext-0.png"
 HelpIndex["t"] := "Translators.png"
 HelpIndex["*"] := ""
 HelpText := "d0`tDeadKey [ CapsLock ]`nd0s`tDeadKey [ CapsLock ]  LShift`nd0cs`tDeadKey [ CapsLock ]  LCTRL + LShift`nd0g`tDeadKey [ CapsLock ]  AltGr`nd0gs`tDeadKey [ CapsLock ]  AltGr + Shift`nd1`tDeadKey [ CTRL CapsLock ]`nd1s`tDeadKey [ CTRL CapsLock ]  LShift`ne0d`tExt [ AltGr NumpadDot ] + d`ne0f`tExt [ AltGr NumpadDot ] + f`ne0h`tExt [ AltGr NumpadDot ] + h`ne0p`tExt [ AltGr NumpadDot ] + p`ne0q`tExt [ AltGr NumpadDot ] + q`ne0t`tExt [ AltGr NumpadDot ] + t`ne0z`tExt [ AltGr NumpadDot ] + z`ne0#`tExt [ AltGr NumpadDot ] + #`ne0(`tExt [ AltGr NumpadDot ] + (`ne0)`tExt [ AltGr NumpadDot ] + )`ne0_`tExt [ AltGr NumpadDot ] + _`ne0a`tExt [ AltGr NumpadDot ] + a`ne0c`tExt [ AltGr NumpadDot ] + c`ne0`tExt [ AltGr NumpadDot ]`nt`tTranslators [ AltGr Shift CapsLock ]`n*`tMain Layout`n"
-RootHelp := "CapsLock                                DeadKey 1`nCTRL CapsLock                           DeadKey 2`nAltGr CapsLock                          Layout emoji`nAltGr Shift CapsLock                    Traslatori`nAltGr NumpadDot                         Layout per tipo`nShift Launch_Media                      Visualizza ultimo layout`nCTRL Launch_Media                       Indice layout e guida layout`nCTRL Browser_Search                     Legge un tag dalla clipboard`nCTRL Launch_Mail                        Crea un tag ||`nCTRL Shift NumpadDiv                    ACV Scrive il testo dalla clipboard`nCTRL NumpadDiv                          VAX Cambia in testo la clipboard`nAltGr Launch_Media                      Visualizza le immagini del Layout`n"
+RootHelp := "CapsLock                                DeadKey 1`nCTRL CapsLock                           DeadKey 2`nAltGr CapsLock                          Layout emoji`nAltGr Shift CapsLock                    Traduttori`nAltGr NumpadDot                         Layout per tipo`nShift Launch_Media                      Visualizza ultimo layout`nCTRL Launch_Media                       Indice layout e guida layout`nCTRL Browser_Search                     Legge un tag dalla clipboard`nCTRL Launch_Mail                        Crea un tag ||`nCTRL Shift NumpadDiv                    ACV Scrive il testo dalla clipboard`nCTRL NumpadDiv                          VAX Cambia in testo la clipboard`nAltGr Launch_Media                      Visualizza le immagini del Layout`n"
 HPImg := Object()
 HPTxt := Object()
 HPMax := 22
@@ -784,8 +784,5 @@ CapsLock::DKey(DeadKey0, "DK-0")
 ^+NumpadDiv::ACV()
 ^NumpadDiv::VAX()
 <^>!Launch_Media::HPStart()
-
-;Run, %A_ScriptDir%\Translators.png
-
 
 

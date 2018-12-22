@@ -4,6 +4,3 @@
 {$VAXKey}::VAX()
 {$IMGKey}::HPStart()
 
-;Run, %A_ScriptDir%\Translators.png
-
-
