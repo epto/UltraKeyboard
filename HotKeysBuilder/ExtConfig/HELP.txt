@@ -7,11 +7,11 @@ Layout per tipo:
 Premi {$MapLay}, digita il primo carattere per selezionare il layout,
 quindi digita il carattere.
 
-Traslatori:
-Digita {$Translators}, digita il carattere per scegliere il traslatore
-e comincia a scrivere in modalit‡ traslata.
-Un carattere non valido, enter e end stabiliscono l'uscita dalla
-modalit‡ traslatore.
+Traduttore:
+Digita {$Translators}, digita il carattere per scegliere il traduttore
+e comincia a scrivere in modalit√† traduttore.
+Un carattere non valido, enter ed end stabiliscono l'uscita dalla
+modalit√† traduttore.
 
 Visualizza layout usando l'indice:
 Digita {$HelpGui} poi invio per vedere l'indice.
