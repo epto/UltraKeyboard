@@ -1,5 +1,5 @@
 ﻿# UltraKeyboard
-Extend your keyboard beyond all limits.
+Extends your keyboard beyond all limits.
 
 ## How it works:
 
@@ -46,7 +46,7 @@ Press AltGr + (Media ♫) to open the help window.
 
 ## How to customize:
 
-First install Autohotkey.
+First install Autohotkey and php5-cli.
 
 The are some folders into HotKeysBuilder directory:
 
@@ -104,6 +104,12 @@ It contains the association between button variables and Autohotkey's hotkeys.
 Remark:
 
 The file ExtConfig/VarsNames.ini contains the button descriptions.
+
+## Build:
+
+Run:
+
+``php builder.php``
 
 
 
